@@ -1,6 +1,6 @@
 {
   "name": "eleforms",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "*An elephant never forgets!*",
   "main": "eleforms.js",
   "scripts": {
